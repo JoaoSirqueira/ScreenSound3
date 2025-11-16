@@ -2,11 +2,6 @@
 
 Um aplicativo simples e divertido para organizar e avaliar suas bandas favoritas.  
 
-Com ele, você pode:  
-- ✅ Adicionar bandas à sua lista pessoal  
-- ⭐ Dar notas para cada banda  
-- 📃 Visualizar e gerenciar sua lista de bandas avaliadas  
-
 ---
 
 ## 🛠️ Tecnologias utilizadas  
