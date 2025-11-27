@@ -1,6 +1,17 @@
-﻿using ScreenSound.Menus;
+﻿using ScreenSound;
+using ScreenSound.Menus;
 using ScreenSound.Modelos;
-using System;
+//using OpenAI_API;
+
+//var client = new OpenAIAPI("sk-GisUk7sScSE7KUd7XBYOTзBlbkFJjPYOTnGrMzxjzxWBCB5R");
+
+//var chat = client.Chat.CreateConversation();
+
+//chat.AppendSystemMessage("Resuma a banda Ira! em 1 parágrafo. Adote um estilo informal.");
+
+//string resposta = await chat.GetResponseFromChatbotAsync();
+
+//Console.WriteLine(resposta);
 
 Banda ira = new("Ira!");
 ira.AdicionarNota(new Avaliacao(10));
